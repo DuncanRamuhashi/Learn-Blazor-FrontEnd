@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "JFjL5rnRF1iqnKh+dxF1z3nu0ou7v6yuNrWKDrtBiNo=",
+  "Source": "BlazorApp3",
+  "BasePath": "_content/BlazorApp3",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "BlazorApp3\\wwwroot",
+      "Source": "BlazorApp3",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Learn-Blazor-FrontEnd\\BlazorApp3\\wwwroot\\",
+      "BasePath": "_content/BlazorApp3",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Learn-Blazor-FrontEnd\\BlazorApp3\\obj\\Release\\net8.0\\scopedcss\\bundle\\BlazorApp3.styles.css",
+      "SourceId": "BlazorApp3",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Learn-Blazor-FrontEnd\\BlazorApp3\\obj\\Release\\net8.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/BlazorApp3",
+      "RelativePath": "BlazorApp3.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\User\\Documents\\GitHub\\Learn-Blazor-FrontEnd\\BlazorApp3\\obj\\Release\\net8.0\\scopedcss\\bundle\\BlazorApp3.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Learn-Blazor-FrontEnd\\BlazorApp3\\obj\\Release\\net8.0\\scopedcss\\projectbundle\\BlazorApp3.bundle.scp.css",
+      "SourceId": "BlazorApp3",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Learn-Blazor-FrontEnd\\BlazorApp3\\obj\\Release\\net8.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/BlazorApp3",
+      "RelativePath": "BlazorApp3.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\User\\Documents\\GitHub\\Learn-Blazor-FrontEnd\\BlazorApp3\\obj\\Release\\net8.0\\scopedcss\\projectbundle\\BlazorApp3.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Documents\\GitHub\\Learn-Blazor-FrontEnd\\BlazorApp3\\wwwroot\\app.css",
+      "SourceId": "BlazorApp3",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Documents\\GitHub\\Learn-Blazor-FrontEnd\\BlazorApp3\\wwwroot\\",
+      "BasePath": "_content/BlazorApp3",
+      "RelativePath": "app.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\app.css"
+    }
+  ]
+}
